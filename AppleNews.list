@@ -8,4 +8,5 @@ DOMAIN,news-client-search.apple.com
 DOMAIN,news-sports-events.apple.com
 DOMAIN,news.iadsdk.apple.com
 DOMAIN,gsa.apple.com
+DOMAIN,gsp64-ssl.ls.apple.com
 URL-REGEX,^https?:\/\/news-assets\.apple\.com\/(audio-narrative|podcast\/audio)\/.*
