@@ -3,4 +3,4 @@ DOMAIN,gateway.icloud.com
 DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN,apple.comscoreresearch.com
-URL-REGEX,"^https?:\/\/news-assets\.apple\.com\/(audio-narrative|podcast\/audio)\/.*"
+URL-REGEX,^https?:\/\/news-assets\.apple\.com\/(audio-narrative|podcast\/audio)\/.*
