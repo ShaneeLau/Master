@@ -1,0 +1,13 @@
+payload:
+  # PayPal 主要域名
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,paypal.me
+  - DOMAIN-SUFFIX,paypal-biz.com
+  - DOMAIN-SUFFIX,paypalobjects.com
+  - DOMAIN-SUFFIX,paypal-mktg.com
+  - DOMAIN-SUFFIX,braintreegateway.com # PayPal旗下支付
+  - DOMAIN-SUFFIX,braintree.com
+  
+  # 关键字匹配 (确保包含 PayPal 各种后缀)
+  - DOMAIN-KEYWORD,paypal
+  - DOMAIN-KEYWORD,braintree
